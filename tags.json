@@ -3,6 +3,12 @@
   "tagType": "Provider",
   "tags": [
     {
+      "valueSource": "memory",
+      "name": "Tag2",
+      "value": 45,
+      "tagType": "AtomicTag"
+    },
+    {
       "name": "_types_",
       "tagType": "Folder"
     },
