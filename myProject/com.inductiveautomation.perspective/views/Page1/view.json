@@ -24,7 +24,7 @@
           "basis": "32px"
         },
         "props": {
-          "text": "More notes Here"
+          "text": "Second Line"
         },
         "type": "ia.display.label"
       }
