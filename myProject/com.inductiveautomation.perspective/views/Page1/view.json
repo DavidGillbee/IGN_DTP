@@ -9,13 +9,10 @@
           "name": "Label"
         },
         "position": {
-          "height": 32,
-          "width": 50,
-          "x": 295,
-          "y": 158
+          "basis": "32px"
         },
         "props": {
-          "text": "Label"
+          "text": "Page 1"
         },
         "type": "ia.display.label"
       }
@@ -23,6 +20,9 @@
     "meta": {
       "name": "root"
     },
-    "type": "ia.container.coord"
+    "props": {
+      "direction": "column"
+    },
+    "type": "ia.container.flex"
   }
 }
