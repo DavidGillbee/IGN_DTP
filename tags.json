@@ -4,13 +4,19 @@
   "tags": [
     {
       "valueSource": "memory",
-      "name": "myTag1",
-      "value": 12,
+      "name": "Tag2",
+      "value": 45,
       "tagType": "AtomicTag"
     },
     {
       "name": "_types_",
       "tagType": "Folder"
+    },
+    {
+      "valueSource": "memory",
+      "name": "TagOnDev",
+      "value": 20,
+      "tagType": "AtomicTag"
     }
   ]
 }

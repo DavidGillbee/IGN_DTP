@@ -1,3 +1,20 @@
+<<<<<<<< HEAD:myProj/com.inductiveautomation.vision/client-tags/resource.json
+{
+  "scope": "C",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "data.bin"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "dg",
+      "timestamp": "2023-07-31T04:21:12Z"
+    },
+    "lastModificationSignature": "fea8438adb5efd5f5bd0c77151f60116bafc4c83fad932e83e40c39d3474d75e"
+  }
+========
 {
   "scope": "G",
   "version": 1,
@@ -9,8 +26,9 @@
   "attributes": {
     "lastModification": {
       "actor": "dg",
-      "timestamp": "2023-07-31T06:22:50Z"
+      "timestamp": "2023-07-31T06:28:48Z"
     },
-    "lastModificationSignature": "28d03b08878b1d074f6a18b409ec269b16fd76cdc08d88964de4f3c340646555"
+    "lastModificationSignature": "6a8a5973080fcbda33eb04172a753f28bd9a4d1f67c65258b3766c69fb300b0a"
   }
+>>>>>>>> Testing:myProj/ignition/event-scripts/resource.json
 }
