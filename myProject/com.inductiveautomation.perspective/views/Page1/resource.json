@@ -10,8 +10,14 @@
   "attributes": {
     "lastModification": {
       "actor": "dg",
+<<<<<<< HEAD
       "timestamp": "2023-07-31T23:06:13Z"
     },
     "lastModificationSignature": "f7377a4c09632f0e8ff26e09dbe00824cb814b2f421f879b5b56e352407f034b"
+=======
+      "timestamp": "2023-07-31T10:58:37Z"
+    },
+    "lastModificationSignature": "2c8395d15564090faec4f6af2fb95c5d69c64b50d3287fb9d681beabda73dada"
+>>>>>>> testing
   }
 }

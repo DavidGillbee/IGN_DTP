@@ -24,7 +24,11 @@
           "basis": "32px"
         },
         "props": {
+<<<<<<< HEAD
           "text": "Second Line"
+=======
+          "text": "More notes Here."
+>>>>>>> testing
         },
         "type": "ia.display.label"
       }
