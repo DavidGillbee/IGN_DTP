@@ -51,7 +51,11 @@
     }
   },
   "props": {
+<<<<<<< HEAD
+    "address": "172.27.0.1",
+=======
     "address": "172.26.0.1",
+>>>>>>> f8fe8c40834c4a86cf53096cfc5f4630d5dab461
     "device": {},
     "geolocation": {},
     "locale": "en-AU",
