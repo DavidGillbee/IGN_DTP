@@ -15,7 +15,7 @@
           "y": 152
         },
         "props": {
-          "text": "Label"
+          "text": "Hello"
         },
         "type": "ia.display.label"
       }
