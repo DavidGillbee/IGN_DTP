@@ -11,8 +11,15 @@
         "position": {
           "basis": "32px"
         },
-        "props": {
-          "text": "Page 1"
+        "propConfig": {
+          "props.text": {
+            "binding": {
+              "config": {
+                "path": "session.props.gateway.address"
+              },
+              "type": "property"
+            }
+          }
         },
         "type": "ia.display.label"
       },
