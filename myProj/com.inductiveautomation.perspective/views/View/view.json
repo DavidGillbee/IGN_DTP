@@ -55,6 +55,24 @@
           }
         },
         "type": "ia.chart.gauge"
+      },
+      {
+        "meta": {
+          "name": "Label"
+        },
+        "position": {
+          "height": 32,
+          "rotate": {
+            "anchor": "-58% 403%"
+          },
+          "width": 50,
+          "x": 207,
+          "y": 27
+        },
+        "props": {
+          "text": "Hello"
+        },
+        "type": "ia.display.label"
       }
     ],
     "meta": {
