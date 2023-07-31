@@ -11,8 +11,8 @@
         "position": {
           "height": 375,
           "width": 600,
-          "x": 91,
-          "y": 67
+          "x": 92,
+          "y": 321
         },
         "props": {
           "colors": [
@@ -47,6 +47,21 @@
           "title": "Favorite Pie Flavors"
         },
         "type": "ia.chart.pie"
+      },
+      {
+        "meta": {
+          "name": "Label"
+        },
+        "position": {
+          "height": 32,
+          "width": 50,
+          "x": 155,
+          "y": 116
+        },
+        "props": {
+          "text": "Label"
+        },
+        "type": "ia.display.label"
       }
     ],
     "meta": {
