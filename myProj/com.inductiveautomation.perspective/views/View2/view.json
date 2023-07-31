@@ -11,8 +11,8 @@
         "position": {
           "height": 375,
           "width": 600,
-          "x": 92,
-          "y": 321
+          "x": 100,
+          "y": 279
         },
         "props": {
           "colors": [
@@ -55,8 +55,8 @@
         "position": {
           "height": 32,
           "width": 50,
-          "x": 155,
-          "y": 116
+          "x": 228,
+          "y": 112
         },
         "props": {
           "text": "Label"
