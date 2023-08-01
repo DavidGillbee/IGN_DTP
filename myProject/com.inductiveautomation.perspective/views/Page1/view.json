@@ -31,7 +31,7 @@
           "basis": "32px"
         },
         "props": {
-          "text": "Hello"
+          "text": "Hello BHP"
         },
         "type": "ia.display.label"
       }
